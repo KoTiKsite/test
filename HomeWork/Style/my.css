@@ -1,0 +1,35 @@
+
+body
+{
+	background: rgb(10 10 10);
+}
+
+h1
+{
+	text-align: center;
+	color: pink;
+}
+h2
+{
+	text-align: center;
+	color: lime;
+}
+p
+{
+	text-align: center;
+	color: rgb(230 230 230);
+	background: rgb(10 10 10);
+	width: 80%;
+}
+.a
+{
+	color:lightblue;
+}
+a
+{
+	color: lightyellow;
+}
+body.fon
+{
+	font-size: 18px;
+}
